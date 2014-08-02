@@ -14,23 +14,20 @@
 					<string>https://github.com/beedasoftware/download/raw/master/BDSoftware.ipa</string>
 				</dict>
 				<dict>
-                   <key>kind</key>
-                   <string>display-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>
-https://raw.githubusercontent.com/JenniferNew/BDSoftware/master/appIcon.png</string>
-               </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>full-size-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>
-https://raw.githubusercontent.com/JenniferNew/BDSoftware/master/appIcon.png
-</string>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/JenniferNew/BDSoftware/master/appIcon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://raw.githubusercontent.com/JenniferNew/BDSoftware/master/appIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
